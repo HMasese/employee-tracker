@@ -73,7 +73,7 @@ Once the app is running, you can interact with the system through a series of pr
 The app uses a CLI interface, so it guides you through different operations using prompts for interaction.
 
 ## Credits
-phil, aley
+phil, aley, dylan
 
 ## License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code. https://choosealicense.com/licenses/mit/
